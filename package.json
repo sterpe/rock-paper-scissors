@@ -1,0 +1,23 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterpe/rock-paper-scissors.git"
+  },
+  "author": "sterpe <srterpe@gmail.com> (https://github.com/sterpe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterpe/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/sterpe/rock-paper-scissors#readme",
+  "devDependencies": {
+    "jest-cli": "^0.6.1",
+    "standard": "^5.3.1"
+  }
+}
